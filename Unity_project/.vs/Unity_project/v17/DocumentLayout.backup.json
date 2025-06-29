@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\majim\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Hackathon_retry\\Unity_project\\",
+  "WorkspaceRootPath": "C:\\Users\\yasud\\OneDrive\\\u753B\u50CF\\Documents\\Hackathon_retry\\Unity_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0022EAC7-3DC4-000B-34BE-F96FADC783F0}|Assembly-CSharp.csproj|c:\\users\\majim\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\hackathon_retry\\unity_project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0022EAC7-3DC4-000B-34BE-F96FADC783F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yasud\\OneDrive\\\u753B\u50CF\\Documents\\Hackathon_retry\\Unity_project\\Assets\\Scripts\\SubjectDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SubjectDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Gamemanager.cs",
-              "DocumentMoniker": "C:\\Users\\majim\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Hackathon_retry\\Unity_project\\Assets\\Scripts\\Gamemanager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemanager.cs",
-              "ToolTip": "C:\\Users\\majim\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Hackathon_retry\\Unity_project\\Assets\\Scripts\\Gamemanager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Gamemanager.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Title": "SubjectDetector.cs",
+              "DocumentMoniker": "C:\\Users\\yasud\\OneDrive\\\u753B\u50CF\\Documents\\Hackathon_retry\\Unity_project\\Assets\\Scripts\\SubjectDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SubjectDetector.cs",
+              "ToolTip": "C:\\Users\\yasud\\OneDrive\\\u753B\u50CF\\Documents\\Hackathon_retry\\Unity_project\\Assets\\Scripts\\SubjectDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SubjectDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T02:14:34.881Z",
+              "WhenOpened": "2025-06-29T07:22:35.639Z",
               "EditorCaption": ""
             }
           ]
