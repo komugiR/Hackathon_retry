@@ -23,15 +23,11 @@
   <input type="file" id="fileInput" accept="image/*" multiple />
   <div id="status"></div>
 
-  <!-- Unity WebGLを表示する領域 -->
   <div id="unityContainer"></div>
 
-  <!-- exif-js（写真情報読み取り用ライブラリ） -->
   <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
-  <!-- main.js（あなたの写真処理ロジック） -->
   <script src="main.js"></script>
 
-  <!-- Unity WebGL 読み込み -->
   <script>
     const buildUrl = "Build";
     const loaderUrl = buildUrl + "/Web.loader.js";
