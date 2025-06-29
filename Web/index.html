@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-    <title>写真分類アプリ</title>
-    <style>
-      body {
-        font-family: sans-serif;
-        padding: 1rem;
-      }
-    </style>
-  </head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>写真分類アプリ</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 1rem;
+    }
+  </style>
+</head>
   <body>
     <h1>📸 写真選択</h1>
+    <label for="fileInput">写真を選んでね：</label>
     <input type="file" id="fileInput" accept="image/*" multiple />
     <div id="status"></div>
 
