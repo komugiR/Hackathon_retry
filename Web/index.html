@@ -28,21 +28,21 @@
 
   <!-- exif-js（写真情報読み取り用ライブラリ） -->
   <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
-  <!-- main.js（あなたの写真処理ロジックなど） -->
+  <!-- main.js（あなたの写真処理ロジック） -->
   <script src="main.js"></script>
 
-  <!-- Unity WebGL 読み込みスクリプト -->
+  <!-- Unity WebGL 読み込み -->
   <script>
-    const buildUrl = "Build";  // Unityビルドフォルダ名
-    const loaderUrl = buildUrl + "/Web.loader.js";
+    const buildUrl = "Build";
+    const loaderUrl = buildUrl + "/Build.loader.js";
 
     const config = {
-      dataUrl: buildUrl + "/Web.data",
-      frameworkUrl: buildUrl + "/Web.framework.js",
-      codeUrl: buildUrl + "/Web.wasm",
+      dataUrl: buildUrl + "/Build.data",
+      frameworkUrl: buildUrl + "/Build.framework.js",
+      codeUrl: buildUrl + "/Build.wasm",
       companyName: "DefaultCompany",
       productName: "PhotoApp",
-      productVersion: "1.0",
+      productVersion: "1.0"
     };
 
     const container = document.getElementById("unityContainer");
